@@ -19,6 +19,8 @@ Features should be developed on branches. To create and switch a branch, use com
 To switch back to an existing branch, use
 `git checkout new_branch_name`
 
+I added this line from Github.
+
 ### Copyright
 
 Copyright (c) 2021, Jabed Miah
