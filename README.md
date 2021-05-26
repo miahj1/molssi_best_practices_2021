@@ -5,7 +5,10 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 
 
-A Python package for analyzing and visualizing molecular files. For molssi workshop.
+A Python package for analyzing and visualizing molecular files. For molssi workshop. This 
+package has a functions module. 
+
+This repository is currently under development. To doa  developmental install, download this repository and type `pip install -e`.
 
 ### Copyright
 
