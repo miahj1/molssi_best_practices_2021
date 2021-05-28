@@ -6,7 +6,7 @@ A Python package for analyzing and visualizing molecular files. For molssi works
 # Add imports here
 from .functions import zen
 from .measure import calculate_distance, calculate_angle
-from .molecule import build_bond_list
+from .molecule import build_bond_list, calculate_molecular_mass
 from .visualize import draw_bond_histogram, draw_molecule
 
 import molecool.io
